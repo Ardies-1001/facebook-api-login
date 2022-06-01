@@ -1,0 +1,14 @@
+{
+    "name": "ardies/fbapi",
+    "description": "Facebook api",
+    "authors": [
+        {
+            "name": "Ardies Lebon",
+            "email": "lebonadjanohoun7@gmail.com"
+        }
+    ],
+    "require": {
+    
+     "facebook/graph-sdk" : "~5.0"
+    }
+}
